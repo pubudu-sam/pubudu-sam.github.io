@@ -1,563 +1,731 @@
-<header id="home">
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+
+   <!--- Basic Page Needs
+   ================================================== -->
+   <meta charset="utf-8">
+	<title>Pupudu Liyange</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+   <!-- Mobile Specific Metas
+   ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- CSS
+    ================================================== -->
+   <link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+   <link rel="stylesheet" href="css/media-queries.css">
+   <link rel="stylesheet" href="css/magnific-popup.css">
+
+   <!-- Script
+   ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+   <!-- Favicons
+	================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+   <!-- Header
+   ================================================== -->
+   <header id="home">
 
-<nav id="nav-wrap">[Show navigation](#nav-wrap "Show navigation") [Hide navigation](# "Hide navigation")
+      <nav id="nav-wrap">
 
-*   [Home](#home)
-*   [About](#about)
-*   [Resume](#resume)
-*   [Works](#portfolio)
-*   [Contact](#contact)
+         <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+	      <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
 
-</nav>
+         <ul id="nav" class="nav">
+            <li class="current"><a class="smoothscroll" href="#home">Home</a></li>
+            <li><a class="smoothscroll" href="#about">About</a></li>
+	         <li><a class="smoothscroll" href="#resume">Resume</a></li>
+            <li><a class="smoothscroll" href="#portfolio">Works</a></li>
+            <li><a class="smoothscroll" href="#contact">Contact</a></li>
+         </ul> <!-- end #nav -->
 
-<div class="row banner">
+      </nav> <!-- end #nav-wrap -->
 
-<div class="banner-text">
+      <div class="row banner">
+         <div class="banner-text">
+            <h1 class="responsive-headline">I'm Pupudu Liyanage</h1>
+            <h3>I'm a  <span>software engineer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
+            effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a>
+            and learn more <a class="smoothscroll" href="#about">about me</a>.</h3>
+            <hr />
+            <ul class="social">
+               <li><a href="https://www.facebook.com/pubudu.liyanage.148/"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="https://twitter.com/pupudu5367"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+               <li><a href="https://www.linkedin.com/in/pupudu5367/"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>
+         </div>
+      </div>
 
-# I'm Pupudu Liyanage
+      <p class="scrolldown">
+         <a class="smoothscroll" href="#about"><i class="icon-down-circle"></i></a>
+      </p>
 
-### I'm a <span>software engineer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let's [start scrolling](#about) and learn more [about me](#about).
+   </header> <!-- Header End -->
 
-* * *
 
-*   [](https://www.facebook.com/pubudu.liyanage.148/)
-*   [](https://twitter.com/pupudu5367)
-*   [](#)
-*   [](https://www.linkedin.com/in/pupudu5367/)
-*   [](#)
-*   [](#)
-*   [](#)
+   <!-- About Section
+   ================================================== -->
+   <section id="about">
 
-</div>
+      <div class="row">
 
-</div>
+         <div class="three columns">
 
-[](#about)
+            <img class="profile-pic"  src="images/profilepic.jpg" alt="" />
 
-</header>
+         </div>
 
-<section id="about">
+         <div class="nine columns main-col">
 
-<div class="row">
+            <h2>About Me</h2>
 
-<div class="three columns">![](images/profilepic.jpg)</div>
+            <p>I'm a person who is eager to learn new things
+               and always tries to develop myself up to a
+               better state than I was. I'm seeking a position
+               in a growth-oriented company where I can
+               use my skills to the advantage of the
+               company while having the scope to develop
+               my own skills.
+            </p>
 
-<div class="nine columns main-col">
+            <div class="row">
 
-## About Me
+               <div class="columns contact-details">
 
-I'm a person who is eager to learn new things and always tries to develop myself up to a better state than I was. I'm seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
+                  <h2>Contact Details</h2>
+                  <p class="address">
+						   <span>Pupudu Liyanage</span><br>
+						   <span>06, kolonna,<br>
+						         Embilipitiya.
+                     </span><br>
+						   <span>+94 77 24 20 965</span><br>
+                     <span>pupuduliyanage@gmail.com</span>
+					   </p>
 
-<div class="row">
+               </div>
 
-<div class="columns contact-details">
+               <div class="columns download">
+                  <p>
+                     <a href="images\portfolio\Doc\CV_pupudu_liyanage.pdf" class="button"><i class="fa fa-download"></i>Download Resume</a>
+                  </p>
+               </div>
 
-## Contact Details
+            </div> <!-- end row -->
 
-<span>Pupudu Liyanage</span>  
-<span>06, kolonna,  
-Embilipitiya.</span>  
-<span>+94 77 24 20 965</span>  
-<span>pupuduliyanage@gmail.com</span>
+         </div> <!-- end .main-col -->
 
-</div>
+      </div>
 
-<div class="columns download">
+   </section> <!-- About Section End-->
 
-[Download Resume](images\portfolio\Doc\CV_pupudu_liyanage.pdf)
 
-</div>
+   <!-- Resume Section
+   ================================================== -->
+   <section id="resume">
 
-</div>
+      <!-- Education
+      ----------------------------------------------- -->
+      <div class="row education">
 
-</div>
+         <div class="three columns header-col">
+            <h1><span>Education</span></h1>
+         </div>
 
-</div>
+         <div class="nine columns main-col">
 
-</section>
+            <div class="row item">
 
-<section id="resume">
+               <div class="twelve columns">
 
-<div class="row education">
+                  <h3>University of Life</h3>
+                  <p class="info">BSc. (Hons) in Computer Science(Specialized in Artificial Intelligence).
+                     <span>&bull;</span> <em class="date">2018 - Present</em><br>University of Kelaniya.</p>
 
-<div class="three columns header-col">
+               
 
-# <span>Education</span>
+               </div>
 
-</div>
+            </div> <!-- item end -->
 
-<div class="nine columns main-col">
 
-<div class="row item">
+         </div> <!-- main-col end -->
 
-<div class="twelve columns">
+      </div> <!-- End Education -->
 
-### University of Life
 
-BSc. (Hons) in Computer Science(Specialized in Artificial Intelligence). <span>•</span> _2018 - Present_  
-University of Kelaniya.
+      <!-- Work
+      ----------------------------------------------- -->
+      <div class="row work">
 
-</div>
+         <div class="three columns header-col">
+            <h1><span>Work</span></h1>
+         </div>
 
-</div>
+         <div class="nine columns main-col">
 
-</div>
+            <div class="row item">
 
-</div>
+               <div class="twelve columns">
 
-<div class="row work">
+                  <h3>Inova IT Systems (Pvt) Ltd </h3>
+                  <p class="info">Software engineer <span>&bull;</span> <em class="date">June 20121 - Present</em></p>
 
-<div class="three columns header-col">
+                  <p>
+                
+                  </p>
 
-# <span>Work</span>
+               </div>
 
-</div>
+            </div> <!-- item end -->
 
-<div class="nine columns main-col">
+            <div class="row item">
 
-<div class="row item">
+               <div class="twelve columns">
 
-<div class="twelve columns">
+                  <h3>Super Cool Studio</h3>
+                  <p class="info">UX Designer <span>&bull;</span> <em class="date">March 2020 - February 2021</em></p>
 
-### Inova IT Systems (Pvt) Ltd
+                  <p>
+             
+                  </p>
 
-Software engineer <span>•</span> _June 20121 - Present_
+               </div>
 
-</div>
+            </div> <!-- item end -->
 
-</div>
+         </div> <!-- main-col end -->
 
-<div class="row item">
+      </div> <!-- End Work -->
 
-<div class="twelve columns">
 
-### Super Cool Studio
+      <!-- Skills
+      ----------------------------------------------- -->
+      <div class="row skill">
 
-UX Designer <span>•</span> _March 2020 - February 2021_
+         <div class="three columns header-col">
+            <h1><span>Skillss</span></h1>
+         </div>
 
-</div>
+         <div class="nine columns main-col">
 
-</div>
+            <p>
+            </p>
 
-</div>
+				<div class="bars">
 
-</div>
+				   <ul class="skills">
+					   <li><span class="bar-expand photoshop"></span><em>JAVA</em></li>
+                  <li><span class="bar-expand illustrator"></span><em>Spring Boot</em></li>
+						<li><span class="bar-expand wordpress"></span><em>PYTHON</em></li>
+						<li><span class="bar-expand css"></span><em>CSS</em></li>
+						<li><span class="bar-expand html5"></span><em>HTML5</em></li>
+                  <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
+					</ul>
 
-<div class="row skill">
+				</div><!-- end skill-bars -->
 
-<div class="three columns header-col">
+			</div> <!-- main-col end -->
 
-# <span>Skillss</span>
+      </div> <!-- End skills -->
 
-</div>
 
-<div class="nine columns main-col">
 
-<div class="bars">
+      
 
-*   <span class="bar-expand photoshop"></span>_JAVA_
-*   <span class="bar-expand illustrator"></span>_Spring Boot_
-*   <span class="bar-expand wordpress"></span>_PYTHON_
-*   <span class="bar-expand css"></span>_CSS_
-*   <span class="bar-expand html5"></span>_HTML5_
-*   <span class="bar-expand jquery"></span>_jQuery_
+   </section> <!-- Resume Section End-->
 
-</div>
 
-</div>
+   <!-- Portfolio Section
+   ================================================== -->
+   <section id="portfolio">
 
-</div>
+      <div class="row">
 
-</section>
+         <div class="twelve columns collapsed">
 
-<section id="portfolio">
+            <h1>Check Out Some of My Works.</h1>
 
-<div class="row">
+            <!-- portfolio-wrapper -->
+            <div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
 
-<div class="twelve columns collapsed">
+          	   <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-# Check Out Some of My Works.
+                     <a href="#modal-01" title="">
+                        <img alt="" src="images/portfolio/coffee.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>pharmacy management system </h5>
+                              <p>Web Development</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-<div id="portfolio-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+                  </div>
+          		</div> <!-- item end -->
 
-<div class="columns portfolio-item">
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-<div class="item-wrap">[![](images/portfolio/coffee.jpg)
+                     <a href="#modal-02" title="">
+                        <img alt="" src="images/portfolio/console.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Console</h5>
+                              <p>Web Development</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-<div class="overlay">
+                  </div>
+          		</div> <!-- item end -->
 
-<div class="portfolio-item-meta">
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-##### pharmacy management system
+                     <a href="#modal-03" title="">
+                        <img alt="" src="images/portfolio/judah.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Judah</h5>
+                              <p>Webdesign</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-Web Development
+                  </div>
+          		</div> <!-- item end -->
 
-</div>
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-</div>
+                     <a href="#modal-04" title="">
+                        <img alt="" src="images/portfolio/into-the-light.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Into The Light</h5>
+                              <p>Photography</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-](#modal-01)</div>
+                  </div>
+          		</div> <!-- item end -->
 
-</div>
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-<div class="columns portfolio-item">
+                     <a href="#modal-05" title="">
+                        <img alt="" src="images/portfolio/farmerboy.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Farmer Boy</h5>
+                              <p>Branding</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-<div class="item-wrap">[![](images/portfolio/console.jpg)
+                  </div>
+          		</div> <!-- item end -->
 
-<div class="overlay">
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-<div class="portfolio-item-meta">
+                     <a href="#modal-06" title="">
+                        <img alt="" src="images/portfolio/girl.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Fire Truck Game</h5>
+                              <p>Game Development</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-##### Console
+                  </div>
+          		</div> <!-- item end -->
 
-Web Development
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-</div>
+                     <a href="#modal-07" title="">
+                        <img alt="" src="images/portfolio/origami.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Origami</h5>
+                              <p>Illustrration</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-</div>
+                  </div>
+          		</div> <!-- item end -->
 
-](#modal-02)</div>
+               <div class="columns portfolio-item">
+                  <div class="item-wrap">
 
-</div>
+                     <a href="#modal-08" title="">
+                        <img alt="" src="images/portfolio/retrocam.jpg">
+                        <div class="overlay">
+                           <div class="portfolio-item-meta">
+          					      <h5>Retrocam</h5>
+                              <p>Web Development</p>
+          					   </div>
+                        </div>
+                        <div class="link-icon"><i class="icon-plus"></i></div>
+                     </a>
 
-<div class="columns portfolio-item">
+                  </div>
+          		</div>  <!-- item end -->
 
-<div class="item-wrap">[![](images/portfolio/judah.jpg)
+            </div> <!-- portfolio-wrapper end -->
 
-<div class="overlay">
+         </div> <!-- twelve columns end -->
 
-<div class="portfolio-item-meta">
 
-##### Judah
+         <!-- Modal Popup
+	      --------------------------------------------------------------- -->
 
-Webdesign
+         <div id="modal-01" class="popup-modal mfp-hide">
 
-</div>
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-coffee.jpg" alt="" />
 
-</div>
+		      <div class="description-box">
+			      <h4>pharmacy management system </h4>
+			      <p>A Pharmaceutical management system with point of
+                  sales and inventory control system. The project
+                  demonstrates object-oriented principles and database
+                  handling.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Java | MySQL | OOP | XAMPP | NetBeans
+               </span>
+		      </div>
 
-](#modal-03)</div>
+            <div class="link-box">
+               <a href="https://github.com/pubudu-sam" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-</div>
+	      </div><!-- modal-01 End -->
 
-<div class="columns portfolio-item">
+         <div id="modal-02" class="popup-modal mfp-hide">
 
-<div class="item-wrap">[![](images/portfolio/into-the-light.jpg)
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-console.jpg" alt="" />
 
-<div class="overlay">
+		      <div class="description-box">
+			      <h4>Console</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Web Development</span>
+		      </div>
 
-<div class="portfolio-item-meta">
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-##### Into The Light
+	      </div><!-- modal-02 End -->
 
-Photography
+         <div id="modal-03" class="popup-modal mfp-hide">
 
-</div>
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-judah.jpg" alt="" />
 
-</div>
+		      <div class="description-box">
+			      <h4>Judah</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding</span>
+		      </div>
 
-](#modal-04)</div>
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-</div>
+	      </div><!-- modal-03 End -->
 
-<div class="columns portfolio-item">
+         <div id="modal-04" class="popup-modal mfp-hide">
 
-<div class="item-wrap">[![](images/portfolio/farmerboy.jpg)
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
 
-<div class="overlay">
+		      <div class="description-box">
+			      <h4>Into the Light</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Photography</span>
+		      </div>
 
-<div class="portfolio-item-meta">
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-##### Farmer Boy
+	      </div><!-- modal-04 End -->
 
-Branding
+         <div id="modal-05" class="popup-modal mfp-hide">
 
-</div>
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-farmerboy.jpg" alt="" />
 
-</div>
+		      <div class="description-box">
+			      <h4>Farmer Boy</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Webdesign</span>
+		      </div>
 
-](#modal-05)</div>
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-</div>
+	      </div><!-- modal-05 End -->
 
-<div class="columns portfolio-item">
+         <div id="modal-06" class="popup-modal mfp-hide">
 
-<div class="item-wrap">[![](images/portfolio/girl.jpg)
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-girl.jpg" alt="" />
 
-<div class="overlay">
+		      <div class="description-box">
+			      <h4>Fire Truck Game</h4>
+			      <p>The Fire Truck is a multimedia game for entertain
+                  people. The project demonstrates Code Art principals.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Processing | Code Art
+               </span>
+		      </div>
 
-<div class="portfolio-item-meta">
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-##### Fire Truck Game
+	      </div><!-- modal-06 End -->
 
-Game Development
+         <div id="modal-07" class="popup-modal mfp-hide">
 
-</div>
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-origami.jpg" alt="" />
 
-</div>
+		      <div class="description-box">
+			      <h4>Origami</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Branding, Illustration</span>
+		      </div>
 
-](#modal-06)</div>
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-</div>
+	      </div><!-- modal-07 End -->
 
-<div class="columns portfolio-item">
+         <div id="modal-08" class="popup-modal mfp-hide">
 
-<div class="item-wrap">[![](images/portfolio/origami.jpg)
+		      <img class="scale-with-grid" src="images/portfolio/modals/m-retrocam.jpg" alt="" />
 
-<div class="overlay">
+		      <div class="description-box">
+			      <h4>Retrocam</h4>
+			      <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+               <span class="categories"><i class="fa fa-tag"></i>Webdesign, Photography</span>
+		      </div>
 
-<div class="portfolio-item-meta">
+            <div class="link-box">
+               <a href="http://srikrishnacommunication.com/Giridesigns.html" target="_blank">Details</a>
+		         <a class="popup-modal-dismiss">Close</a>
+            </div>
 
-##### Origami
+	      </div><!-- modal-01 End -->
 
-Illustrration
 
-</div>
+      </div> <!-- row End -->
 
-</div>
+   </section> <!-- Portfolio Section End-->
 
-](#modal-07)</div>
 
-</div>
+   <!-- Call-To-Action Section
+   ================================================== -->
+   <section id="call-to-action">
 
-<div class="columns portfolio-item">
+   
 
-<div class="item-wrap">[![](images/portfolio/retrocam.jpg)
+   </section> <!-- Call-To-Action Section End-->
 
-<div class="overlay">
 
-<div class="portfolio-item-meta">
+   <!-- Testimonials Section
+   ================================================== -->
+   
 
-##### Retrocam
 
-Web Development
+   <!-- Contact Section
+   ================================================== -->
+   <section id="contact">
 
-</div>
+         <div class="row section-head">
 
-</div>
+            <div class="two columns header-col">
 
-](#modal-08)</div>
+               <h1><span>Get In Touch.</span></h1>
 
-</div>
+            </div>
 
-</div>
+            <div class="ten columns">
 
-</div>
+                  <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+                  </p>
 
-<div id="modal-01" class="popup-modal mfp-hide">![](images/portfolio/modals/m-coffee.jpg)
+            </div>
 
-<div class="description-box">
+         </div>
 
-#### pharmacy management system
+         <div class="row">
 
-A Pharmaceutical management system with point of sales and inventory control system. The project demonstrates object-oriented principles and database handling.
+            <div class="eight columns">
 
-<span class="categories">Java | MySQL | OOP | XAMPP | NetBeans</span></div>
+               <!-- form -->
+               <form action="" method="post" id="contactForm" name="contactForm">
+					<fieldset>
 
-<div class="link-box">[Details](https://github.com/pubudu-sam) <a class="popup-modal-dismiss">Close</a></div>
+                  <div>
+						   <label for="contactName">Name <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactName" name="contactName">
+                  </div>
 
-</div>
+                  <div>
+						   <label for="contactEmail">Email <span class="required">*</span></label>
+						   <input type="text" value="" size="35" id="contactEmail" name="contactEmail">
+                  </div>
 
-<div id="modal-02" class="popup-modal mfp-hide">![](images/portfolio/modals/m-console.jpg)
+                  <div>
+						   <label for="contactSubject">Subject</label>
+						   <input type="text" value="" size="35" id="contactSubject" name="contactSubject">
+                  </div>
 
-<div class="description-box">
+                  <div>
+                     <label for="contactMessage">Message <span class="required">*</span></label>
+                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                  </div>
 
-#### Console
+                  <div>
+                     <button class="submit">Submit</button>
+                     <span id="image-loader">
+                        <img alt="" src="images/loader.gif">
+                     </span>
+                  </div>
 
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+					</fieldset>
+				   </form> <!-- Form End -->
 
-<span class="categories">Branding, Web Development</span></div>
+               <!-- contact-warning -->
+               <div id="message-warning"> Error boy</div>
+               <!-- contact-success -->
+				   <div id="message-success">
+                  <i class="fa fa-check"></i>Your message was sent, thank you!<br>
+				   </div>
 
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
+            </div>
 
-</div>
 
-<div id="modal-03" class="popup-modal mfp-hide">![](images/portfolio/modals/m-judah.jpg)
+            <aside class="four columns footer-widgets">
 
-<div class="description-box">
+               <div class="widget widget_contact">
 
-#### Judah
+					   <h4>Address and Phone</h4>
+					   <p class="address">
+						   Pupudu LIyanage<br>
+						   06 kolonna <br>
+						   Embilipitiya.<br>
+						   <span>+94 77 24 20 965</span>
+					   </p>
 
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+				   </div>
 
-<span class="categories">Branding</span></div>
+               <div class="widget widget_tweets">
 
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
+                  <h4 class="widget-title">Latest Tweets</h4>
 
-</div>
+                  <ul id="twitter">
+                     <li>
+                        <span>
+                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
+                        </span>
+                        <b><a href="#">2 Days Ago</a></b>
+                     </li>
+                     <li>
+                        <span>
+                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+                        eaque ipsa quae ab illo inventore veritatis et quasi
+                        </span>
+                        <b><a href="#">3 Days Ago</a></b>
+                     </li>
+                  </ul>
 
-<div id="modal-04" class="popup-modal mfp-hide">![](images/portfolio/modals/m-intothelight.jpg)
+		         </div>
 
-<div class="description-box">
+            </aside>
 
-#### Into the Light
+      </div>
 
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+   </section> <!-- Contact Section End-->
 
-<span class="categories">Photography</span></div>
 
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
+   <!-- footer
+   ================================================== -->
+   <footer>
 
-</div>
+      <div class="row">
 
-<div id="modal-05" class="popup-modal mfp-hide">![](images/portfolio/modals/m-farmerboy.jpg)
+         <div class="twelve columns">
 
-<div class="description-box">
+            <ul class="social-links">
+               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+               <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+               <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+               <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+               <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+               <li><a href="#"><i class="fa fa-skype"></i></a></li>
+            </ul>
 
-#### Farmer Boy
+            <ul class="copyright">
+               <li>Ceevee &copy; Copyright 2016</li>
+               <li>Design by <a href="http://srikrishnacommunication.com/Giridesigns.html" title="Styleshout" target="_blank">Giri Designs</a></li>   
+            </ul>
 
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
+         </div>
 
-<span class="categories">Branding, Webdesign</span></div>
+         <div id="go-top"><a class="smoothscroll" title="Back to Top" href="#home"><i class="icon-up-open"></i></a></div>
 
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
+      </div>
 
-</div>
+   </footer> <!-- Footer End-->
 
-<div id="modal-06" class="popup-modal mfp-hide">![](images/portfolio/modals/m-girl.jpg)
+   <!-- Java Script
+   ================================================== -->
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+   <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
 
-<div class="description-box">
+   <script src="js/jquery.flexslider.js"></script>
+   <script src="js/waypoints.js"></script>
+   <script src="js/jquery.fittext.js"></script>
+   <script src="js/magnific-popup.js"></script>
+   <script src="js/init.js"></script>
 
-#### Fire Truck Game
+</body>
 
-The Fire Truck is a multimedia game for entertain people. The project demonstrates Code Art principals.
-
-<span class="categories">Processing | Code Art</span></div>
-
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
-
-</div>
-
-<div id="modal-07" class="popup-modal mfp-hide">![](images/portfolio/modals/m-origami.jpg)
-
-<div class="description-box">
-
-#### Origami
-
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-
-<span class="categories">Branding, Illustration</span></div>
-
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
-
-</div>
-
-<div id="modal-08" class="popup-modal mfp-hide">![](images/portfolio/modals/m-retrocam.jpg)
-
-<div class="description-box">
-
-#### Retrocam
-
-Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-
-<span class="categories">Webdesign, Photography</span></div>
-
-<div class="link-box">[Details](http://srikrishnacommunication.com/Giridesigns.html) <a class="popup-modal-dismiss">Close</a></div>
-
-</div>
-
-</div>
-
-</section>
-
-<section id="contact">
-
-<div class="row section-head">
-
-<div class="two columns header-col">
-
-# <span>Get In Touch.</span>
-
-</div>
-
-<div class="ten columns">
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
-
-</div>
-
-</div>
-
-<div class="row">
-
-<div class="eight columns">
-
-<form action="" method="post" id="contactForm" name="contactForm">
-
-<fieldset>
-
-<div><label for="contactName">Name <span class="required">*</span></label> <input type="text" value="" size="35" id="contactName" name="contactName"></div>
-
-<div><label for="contactEmail">Email <span class="required">*</span></label> <input type="text" value="" size="35" id="contactEmail" name="contactEmail"></div>
-
-<div><label for="contactSubject">Subject</label> <input type="text" value="" size="35" id="contactSubject" name="contactSubject"></div>
-
-<div><label for="contactMessage">Message <span class="required">*</span></label><textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea></div>
-
-<div><button class="submit">Submit</button> <span id="image-loader">![](images/loader.gif)</span> </div>
-
-</fieldset>
-
-</form>
-
-<div id="message-warning">Error boy</div>
-
-<div id="message-success">Your message was sent, thank you!  
-</div>
-
-</div>
-
-<aside class="four columns footer-widgets">
-
-<div class="widget widget_contact">
-
-#### Address and Phone
-
-Pupudu LIyanage  
-06 kolonna  
-Embilipitiya.  
-<span>+94 77 24 20 965</span>
-
-</div>
-
-<div class="widget widget_tweets">
-
-#### Latest Tweets
-
-*   <span>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum</span> **[2 Days Ago](#)**
-*   <span>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi</span> **[3 Days Ago](#)**
-
-</div>
-
-</aside>
-
-</div>
-
-</section>
-
-<footer>
-
-<div class="row">
-
-<div class="twelve columns">
-
-*   [](#)
-*   [](#)
-*   [](#)
-*   [](#)
-*   [](#)
-*   [](#)
-*   [](#)
-
-*   Ceevee © Copyright 2016
-*   Design by [Giri Designs](http://srikrishnacommunication.com/Giridesigns.html "Styleshout")
-
-</div>
-
-<div id="go-top">[](#home "Back to Top")</div>
-
-</div>
-
-</footer>
-
-<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+</html>
